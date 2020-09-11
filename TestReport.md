@@ -7,9 +7,8 @@
 На тестирование затрачено: 2
 
 В результате тестирования выявлены следующие дефекты:
-* https://github.com/Nemeziz1/Java1/issues/1
-* https://github.com/Nemeziz1/Java1/issues/2
-* https://github.com/Nemeziz1/Java1/issues/3
+* Невалидный ключ из списка оказался валидным при проверке через KeyValidator
+* Валидные ключи из списка оказались невалидными при проверке через KeyValidator
 
 ## Описание процесса тестирования
 
